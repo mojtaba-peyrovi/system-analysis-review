@@ -1,0 +1,9 @@
+
+book: System_Analysis_Dersign
+Data Model: A formal way or representing the cara that are used and created by a bsuiness system. (people, places, events)
+- Data models dont indicate how data is stored, created or manipulated. 
+Erwin ==> data modeling software
+
+Data flow Diagram(DFD): shows the flow of data between different processes in the system. it doesnt focus on data. it just focuses on the flow of data between processes and external entities.      e.g.(figure5-1)
+ERD: focuses on the details of data transferred between entities.
+Entities: are the building blocks of ERD charts. they can be person, place, event, order, product. etc. 
